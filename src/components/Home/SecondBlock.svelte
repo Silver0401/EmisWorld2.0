@@ -3,6 +3,7 @@
 	import PhoneSvg from '../../lib/svg/phone.svg';
 </script>
 
+<!--  -->
 <section>
 	<div class="topBlock">
 		<div class="dotsContainer">

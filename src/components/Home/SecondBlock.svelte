@@ -207,13 +207,13 @@
 		top: 10px;
 		left: 20px;
 		width: 100px;
-		width: 100px;
+		height: 100px;
 		display: grid;
 		place-items: center;
 	}
 	.academicSocietyContainer .imgContainer img {
-		height: 70%;
-		width: auto;
+		height: 80%;
+		width: 80%;
 	}
 
 	.academicSocietyContainer .peopleContainer {
